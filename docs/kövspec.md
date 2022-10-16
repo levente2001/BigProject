@@ -13,6 +13,19 @@
 ## 2. Jelenlegi helyzet
 
   A cég a quizeket jelenleg papír alapon gyártja és nyomtatja nagy mennyiségben, témánként és tantárgyanként kategorizálva, melyet aztán a kapcsolatban álló intézmények és iskolák között szétosztanak. A papírok kiszállítása időigényes folyamat, amely gyakran késéseket és fennakadásokat okozhat, illetve a logisztikai költségek kiküszöbölhetőek lehetnek a virtuális felületre való átállás során. Továbbá, a diákokhoz közelebb álló és egyszerűbb megoldás lenne, ha néhány kattintással a saját készülékükről tudnák kitölteni a számukra megfelelő kvízt. A Yoshihiro Kft. a működésében mihamarabbi változást szeretne, mivel a mostani állapotot fenntartani nem kívánják és nem is tudják.
+  
+  
+  ## 3. Jelenlegi üzleti modell
+
+ A jelenlegi üzleti modell több okból kifolyólag sem alkalmas hosszútávon, sok hátránya van a kevés előnnyel szemben. Egy innovatív megoldásra van szükség, amelyet egy webes felület tenne lehetővé.
+    
+     A papír alapú quiz hátrányai:
+        - nem környezetbarát (rengeteg papírlap szükséges)
+        - hosszú a kiértékelési idő
+        - a kérdőívek terjesztése nehézkes
+        - a kitöltő személy beazonosítása bonyolult
+        - a kitöltés módja félrevezető is lehet
+        - témakörök közötti váltás nem lehetséges
 
 
   ## 6. Követelménylista
@@ -21,4 +34,3 @@
 |Jogosultság   |K1   |Bejelentkezési felület|1.0   |A felhasználó az email címe vagy felhasználóneve és jelszava segítségével bejelentkezhet. Ha a megadott paraméterek nem megfelelőek, akkor a felhasználó hibaüzenetet kap.  |
 |Jogosultság   |K2   |Regisztráció   |1.0   |A felhasználó regisztrálhatja magát a felhasználó név email cím illetve jelszó megadásával. A jelszó tárolása kódolva történik. Ha valamelyik paramétek hiányzik, vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót.   |
 |Modifikáció   |K3   |Felhasználó módosítása   |1.0   |A felhasználó módosítani tudja a saját felhasználónevét. Ehhez szükséges a régi és az új felhasználónév megadása, és az új megerősítése.    |
-|Modifikáció   |K4   |Jelszó módosítása  | 1.0  | A felhasználó módosítani tudja saját jelszavát. Ehhez szükséges a régi és az új jelszavának megadása, valamint az új megerősítése.   |
