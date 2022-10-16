@@ -17,7 +17,15 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
         
 ## 2.	Jelenlegi helyzet:
 
-A cég egy jól bevált, ám elavult technikát használ évek óta...
+    A cég egy jól bevált, ám elavult technikát használ évek óta. Mivel a Yoshihiro Kft. jeligéje az innováció,
+    ezért egy fejlett szoftver használata kulcsfontosságú lehet a további működésünkben. A quizeket jelenleg
+    papír alapon gyártja és nyomtatja nagy mennyiségben, témánként és tantárgyanként kategorizálva, melyet aztán
+    a kapcsolatban álló intézmények és iskolák között szétosztanak. A papírok kiszállítása időigényes folyamat,
+    amely gyakran késéseket és fennakadásokat okozhat, illetve a logisztikai költségek kiküszöbölhetőek lehetnek
+    a virtuális felületre való átállás során. Továbbá, a diákokhoz szintén közelebb álló és egyszerűbb megoldás
+    lenne, ha néhány kattintással a saját készülékükről tudnák kitölteni a számukra megfelelő kvízt. A cég az
+    üzemelésében mihamarabbi változást szeretne, mivel a mostani állapotot fenntartani nem kívánják és nem is tudják.
+
 
 ## 3.	Követelménylista:
 
