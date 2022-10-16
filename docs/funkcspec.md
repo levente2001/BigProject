@@ -48,7 +48,7 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 
 A Yohihiro Kft. kapcsolatban áll bizonyos intézményekkel, melyek között terjeszti a témakörönként megadott kvízeket. A kiszállítást és az elosztást a cég emberei végzik személyatóval, mely időigényes és költséges. A jelenlegi üzleti modell több okból kifolyólag sem alkalmas hosszútávon, sok hátránya van a kevés előnnyel szemben. Egy innovatív megoldásra van szükség, amelyet egy webes felület tenne lehetővé.
 
-**A papír alapú quiz hátrányai:**
+**A papír alapú kvíz hátrányai:**
 
         	1. Rengeteg papírlap, illetve tinta szükséges a nyomtatáshoz, amely költségessége 
           	   mellett nem is környezetbarát megoldás
