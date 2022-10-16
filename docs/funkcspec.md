@@ -69,14 +69,15 @@ A rendszerünkbe bárki felregisztrálhat egy felhasználó névvel és egy jels
 
 
 ## 9.  Forgatókönyv
-    A szoftverben egy szereplő létezik, amit egy felhasználónév és jelszó azonosít. A kezdő oldalon a felhasználó regisztrálhat, illetve
-    bejelentkezhet a már meglévő felhasználói fiókjába, ezen felül az szoftverről olvashat információkat. Regisztráláskor a teljes
-    nevét, egy felhasználó nevet, egy jelszót, illetve egy e-mail címet kell megadni. Sikeres regisztráció után bejelentkezhet. Az
-    oldalt csak regisztrált felhasználók használhatják. Bejelentkezés után a felhasználó választhat a kölünböző kategóriáju kérdőívek
-    közül vagy egy teljesen véletlenszerűen generált kérdőívet is kitölthet, amit a rendszer a különbőzö előre beállított témák
-    kérdéseiből állít össze véletlenszerűen. A kérdőív kitöltése után a rendszer átszámolja, hogy a felhasználó hány kérdésre adott jó,
-    illetve rossz választ, ez alapján kiértékeli a kérdőívet és megjeleníti a felhasználó számára az eredményt. Az eredményt százalékos
-    arányban jeleníti meg. A kérdésekre adott helyes válaszokat a rendszer nem adja vissza. 
+A szoftverben egy szereplő létezik, amit egy felhasználónév és jelszó azonosít. A kezdő oldalon a felhasználó regisztrálhat, illetve
+bejelentkezhet a már meglévő felhasználói fiókjába, ezen felül az szoftverről olvashat információkat. Regisztráláskor a teljes
+nevét, egy felhasználó nevet, egy jelszót, illetve egy e-mail címet kell megadni. Sikeres regisztráció után bejelentkezhet. Az
+oldalt csak regisztrált felhasználók használhatják. Bejelentkezés után a felhasználó választhat a kölünböző kategóriáju kérdőívek
+közül vagy egy teljesen véletlenszerűen generált kérdőívet is kitölthet, amit a rendszer a különbőzö előre beállított témák
+kérdéseiből állít össze véletlenszerűen. A kérdőív kitöltése után a rendszer átszámolja, hogy a felhasználó hány kérdésre adott jó,
+illetve rossz választ, ez alapján kiértékeli a kérdőívet és megjeleníti a felhasználó számára az eredményt. Az eredményt százalékos
+arányban jeleníti meg. A kérdésekre adott helyes válaszokat a rendszer nem adja vissza. 
 
 
 ## 10. Funkció - Követelmény megfeleltetés
+
