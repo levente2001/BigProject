@@ -1,1 +1,1 @@
-# Szoftverfejlesztés módszertan mini-projekt
+# Szoftverfejlesztés módszertan Nagy-projekt
