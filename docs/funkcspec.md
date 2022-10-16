@@ -48,16 +48,22 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 
 A Yohihiro Kft. kapcsolatban áll bizonyos intézményekkel, melyek között terjeszti a témakörönként megadott kvízeket. A kiszállítást és az elosztást a cég emberei végzik személyatóval, mely időigényes és költséges. A jelenlegi üzleti modell több okból kifolyólag sem alkalmas hosszútávon, sok hátránya van a kevés előnnyel szemben. Egy innovatív megoldásra van szükség, amelyet egy webes felület tenne lehetővé.
 
-    A papír alapú quiz hátrányai:
-    
-        1. Rengeteg papírlap, illetve tinta szükséges a nyomtatáshoz, amely költségessége 
-           mellett nem is környezetbarát megoldás
-	2. Az egyesével történő kiértékelés hosszadalmas és fárasztó a dolgozók számára
-	3. A kérdőívek terjesztése az iskolák között nehézkes
-	4. A kitöltés módja gyakran nem egyértelmű és félrevezető lehet, ami szintén
-           elkerülhető lenne
-	5.
-	6. 
+**A papír alapú quiz hátrányai:**
+
+        	1. Rengeteg papírlap, illetve tinta szükséges a nyomtatáshoz, amely költségessége 
+          	   mellett nem is környezetbarát megoldás
+	   
+		2. Az egyesével történő kiértékelés hosszadalmas és fárasztó a dolgozók számára
+	
+		3. A kérdőívek terjesztése az iskolák között nehézkes
+	
+		4. A kitöltés módja gyakran nem egyértelmű és félrevezető lehet, ami szintén
+           	   elkerülhető lenne
+	   
+		5. A kitöltő személy beazonosítása bonyolult és sok esetben lehetetlen
+	
+		6. Témakörök közötti váltás nem lehetséges, mivel egyszerre csak egy adott
+		   tárggyal kapcsolatos kvízt lehet megoldani
 
 
 ## 5.	Igényelt üzleti folyamatok modellje:
