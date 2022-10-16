@@ -29,6 +29,18 @@
         - a kitöltés módja félrevezető is lehet
         - témakörök közötti váltás nem lehetséges
 
+## 4. Igényelt üzleti folyamat
+
+  - Webes felület ami mindenki számára elérhető online
+
+  - A webes felületre való regisztráció/bejelentkezés művelete 
+
+  - Quiz kérdések felvitele
+
+  - Quiz kérdések választási lehetőségeinek felvitele
+  
+  - Quiz kérdések élő leértékelése
+
    ## 5. Programozás nyelv és egyéb elvárások
     A fejlesztéshez használt programozás nyelvek a következőek:
       - Frontend: HTML, CSS, Javascript
