@@ -67,7 +67,7 @@ A Yohihiro Kft. kapcsolatban áll bizonyos intézményekkel, melyek között ter
 
 
 ## 5.	Igényelt üzleti folyamatok modellje:
-
+A célunk egy olyan optimálisan és a követelményeknek megfelelően üzemelő weboldal, amely minden felhasználónk számára hozzáférhető és hibamentesen működik. A felhasználó az első belépéskor egy bejelentkező felülettel találkozik, amely a felhasználóneve és jeleszava helyes megadásával eléri a már meglévő quizek listáját illetve, hozzá tudjon adni még több quizt a listához vagy törölni a listáról. A kiválaszott kvíznek legyen négy választási lehetősége és a felhasználó élőben lássa, hogy a válasza megfelelő volt vagy nem. A quizek létrehozása egyszerűen megoldható legyen, körülbelül hasonló a quiz felépítéséhez.
 
 ## 6. Használati esetek
 
