@@ -7,3 +7,8 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
         - Papírok helyett környezetbarát módon lehet a diákokat quizek kitöltésére motiválni
         - Nincs szükség semmilyen speciális képesítésre és eszközre, mindenki a saját mobil telefonján eléri
         - A kiértékelési időt megspórolhatják a dolgozók, mert a program azonnal jelzi a helyes és az elrontott válaszokat és az elért pontszámot.
+    A főbb feladatai:
+        - A diákok motiválása és a tanulás megszerettetése
+        - Az iskolai tanárok munkájának megkönnyítése, segítése
+        - Egyéb diákokkal foglalkozó intézmények, kisegítése
+        - Otthoni tanulás és szülők segítése a gyererk tanulásában
