@@ -41,3 +41,4 @@
 |Feladattípus  | K5  |Kvíz  |1.0  | Több kérdésből áll, a feladat a helyes válasz kiválasztása több lehetőség közül. A felhasználó pontot kap az eltalált és az el nem talált kvíz illetve teszt kérdések számának függvényében.  |
 |Feladattípus   | K6  | Teszt |1.0   |Teszt kérdésre helyesen beírt eredmény ér pontot. A felhasználó pontot kap az eltalált és az el nem talált kvíz illetve teszt kérdések számának függvényében.   |
 | Statisztika  | K7  | Toplista  | 1.0  |   Egy lista a játékosok pontszámairól, a lista elején a legtöbb pontot elért felhasználó található. |
+|Felület   | K8  | Bejelentkezés  | 1.0  | A felhasználók itt tudnak bejelentkezni a rendszerbe  |
