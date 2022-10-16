@@ -5,6 +5,7 @@
  A **Yoshihiro Kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, azzal a megkereséssel fordult software fejlesztő cégönkhöz, hogy szeretne lefejlesztetni egy web alapú quiz programot, amin keresztül a diákok oktatása és fejlődése egy magasabb szintre emelkedhet. A program lényege, hogy a felület mindenki számára könnyedén egy web böngészőből elérhető legyen. A weboldal regisztrációhoz kötött. A felhasználók különböző témakörökből válogathatnak, és azon belül érdekes quizeket tölthetnek ki, így fejlesztve a tudásukat az adott témában. A sorok töbször is kitölthetőek, ennek köszönhetően igazán mely tudást lehet megszerezni.
 
     A főbb előnyei:
+    
         - Papírok helyett környezetbarát módon lehet a diákokat quizek kitöltésére motiválni
         - Nincs szükség semmilyen speciális képesítésre és eszközre, mindenki a saját mobil telefonján eléri
         - A kiértékelési időt megspórolhatják a dolgozók, mert a program azonnal jelzi a helyes és az elrontott válaszokat és az elért pontszámot.
@@ -20,6 +21,7 @@
  A jelenlegi üzleti modell több okból kifolyólag sem alkalmas hosszútávon, sok hátránya van a kevés előnnyel szemben. Egy innovatív megoldásra van szükség, amelyet egy webes felület tenne lehetővé.
     
      A papír alapú quiz hátrányai:
+     
         - nem környezetbarát (rengeteg papírlap szükséges)
         - hosszú a kiértékelési idő
         - a kérdőívek terjesztése nehézkes
@@ -29,6 +31,7 @@
 
 
   ## 6. Követelménylista
+  
   |Modul   |ID   |Név   |v.   |Kifejtés   |
 |---|---|---|---|-----|
 |Jogosultság   |K1   |Bejelentkezési felület|1.0   |A felhasználó az email címe vagy felhasználóneve és jelszava segítségével bejelentkezhet. Ha a megadott paraméterek nem megfelelőek, akkor a felhasználó hibaüzenetet kap.  |
