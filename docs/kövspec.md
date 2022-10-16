@@ -40,3 +40,4 @@
 |Modifikáció   |K4   |Jelszó módosítása  | 1.0  | A felhasználó módosítani tudja saját jelszavát. Ehhez szükséges a régi és az új jelszavának megadása, valamint az új megerősítése.   |
 |Feladattípus  | K5  |Kvíz  |1.0  | Több kérdésből áll, a feladat a helyes válasz kiválasztása több lehetőség közül. A felhasználó pontot kap az eltalált és az el nem talált kvíz illetve teszt kérdések számának függvényében.  |
 |Feladattípus   | K6  | Teszt |1.0   |Teszt kérdésre helyesen beírt eredmény ér pontot. A felhasználó pontot kap az eltalált és az el nem talált kvíz illetve teszt kérdések számának függvényében.   |
+| Statisztika  | K7  | Toplista  | 1.0  |   Egy lista a játékosok pontszámairól, a lista elején a legtöbb pontot elért felhasználó található. |
