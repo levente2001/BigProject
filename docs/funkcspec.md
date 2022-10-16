@@ -38,7 +38,12 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 A rendszerünkbe bárki felregisztrálhat egy felhasználó névvel és egy jelszóval.  A regisztrált felhasználók, quizeket tölthetnek ki. Választhatnak 5 ketegória közül, és ezen belül lesznek kérdések . A diákok nyomon tudják követni a kapott pontszámokat, és a sikeres valamint a rossz válaszokat. A tanárok, pedig beikatathatják a mindenapi tanórák rendjébe a quizeket. Amennyiben a diákok sikeresen töltik ki a quizt akkor különböző pontszámokat, és mivel többször is ki tölthető egy adott teszt biztosan elméjül a megszerzett tudás. Az iskolákon kívül otthoni tanulásra vagy szórakozásra is alkalmas a program. Továbbá baráti társaságok összejvetelére is kiváló lehetőséget nyújtanak a kérdések. Különböző használati esetek során akár a fiatal diákok akár felnőtt korban lévő embereknél egyaránt fontos szerepet játszhat a tudás gyarapítása és a szellemi állapot minél magasabb szinten tartása. Ebben a quizeknek nagyon fontos szerepe van. A kérdések és a témakörök igény szerint alakíthatók az ügyfél akarata szerint.
 
 ## 7. Megfeleltetés
-    Reszponzív webdízáj a szoftvernek ki kell elégítenie a következő pontokat mobilon is elérhetőnek és használhatónak kell lennie, ezen felül letisztultnak és mindenki számára érthetőnek kell lennie. 
+    Reszponzív webdízáj a szoftvernek ki kell elégítenie a következő pontokat mobilon is 
+    elérhetőnek és használhatónak kell lennie, ezen felül letisztultnak és mindenki 
+    számára érthetőnek kell lennie. A szoftvernek alacsony tárhely igényűnek kell lennie, 
+    illetve alacsony hardware igényűnek. A teszt elindÍtása a felhasználóknak egyszerűnek 
+    és gyorsnak kell lennie.  A teszt kitöltési felülete legyen letisztult, mindenki 
+    számára könnyen kezelhető, egyértelmű. 
 
 
 ## 8. Képernyőterv
