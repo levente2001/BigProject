@@ -29,6 +29,20 @@
         - a kitöltés módja félrevezető is lehet
         - témakörök közötti váltás nem lehetséges
 
+   ## 5. Programozás nyelv és egyéb elvárások
+    A fejlesztéshez használt programozás nyelvek a következőek:
+      - Frontend: HTML, CSS, Javascript
+      - Backend: Javascript/Node.js
+      - Adatbázis: NoSQL
+    A weboldal lefejlesztéséhez a Google LLC által fejlesztett Firebase szoftver szolgáltatásait veszék igénybe.
+    
+    Egyéb elvárások:
+      - Az oldal legyen reszponzív
+      - Bármilyen eszközön könnyen kezelhető és elérhető
+      - A design igazodjon vállalatunk színeihez (kék,fehér)
+      - Bárki számára könnyen kezelhető
+      - Könnyű fentarthatóság
+
 
   ## 6. Követelménylista
   
