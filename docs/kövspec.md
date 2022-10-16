@@ -17,5 +17,5 @@
 
   ## 6. Követelménylista
       |Modul   |ID   |Név   |v.   |Kifejtés   |
-      |---|---|---|---|-----|
+      |--------|-----|------|-----|-----------|
       |Jogosultság   |K1   |Bejelentkezési felület|1.0   |A felhasználó az email címe vagy felhasználóneve és jelszava segítségével bejelentkezhet. Ha a megadott paraméterek nem megfelelőek, akkor a felhasználó hibaüzenetet kap.  |
