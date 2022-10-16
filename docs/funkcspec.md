@@ -12,3 +12,29 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
         - Az iskolai tanárok munkájának megkönnyítése, segítése
         - Egyéb diákokkal foglalkozó intézmények, kisegítése
         - Otthoni tanulás és szülők segítése a gyererk tanulásában
+## 2.	Jelenlegi helyzet:
+
+
+## 3.	Követelménylista:
+
+
+## 4.	Jelenlegi üzleti folyamatok modellje:
+
+
+## 5.	Igényelt üzleti folyamatok modellje:
+
+
+## 6. Használati esetek
+
+
+## 7. Megfeleltetés
+
+
+## 8. Képernyőterv
+
+
+
+## 9.  Forgatókönyv
+
+
+## 10. Funkció - Követelmény megfeleltetés
