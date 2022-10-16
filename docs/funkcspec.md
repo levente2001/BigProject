@@ -80,4 +80,17 @@ arányban jeleníti meg. A kérdésekre adott helyes válaszokat a rendszer nem 
 
 
 ## 10. Funkció - Követelmény megfeleltetés
+A weboldal fő funkciója az, hogy felmérje a diákok tudását. Ezért az a cél,hogy egy olyan számukra is tetszetős modern, fiatalos
+színes és reszponzív weboldalt hozzunk létre, amelynek a használata számukra is élvezet. Ennek elérése érdekében a weboldalt gyorsra,
+könnyen elérhetőre - tehát bárhonnan akár egy számítógépről, akár egy telefonról elérhető legyen - a modern fiatalság ízlésvilághoz
+alkalmazkódra és mindemelet a célnak megfelelően a tudás bővítésére, illetve annak a felmérésére terveztűk. A weboldal bárhonnan 
+elérhető lesz, azok számára akiknek a megrendelő szánja. A megrendelő szempontjából a szoftver alacsony hardware igényű, könnyen kezelhető, illetve a fenttartási kölcsége is minimális. A szoftverben fellelhető témákat bármikor megtudjuk változtani, illetve
+kitudjuk bővíteni tetszés szerűen. A szoftver fentartását, illetve frissítését és hibajavítását a cégünk igény szerint vállalja.
 
+## 11. Fogalom szótár
+    Frontend - a programoknak, weboldalaknak az a része, amelyik a felhasználóval közvetlenül kapcsolatban van. Feladata 
+    az adatok megjelenése, befogadása a felhasználó (vagy ritkábban egy másik rendszer) felől.
+
+    Backend - a  programoknak, weboldalaknak a hátsó, a felhasználó elől rejtett, a tényleges számításokat végző része. 
+    Feladata a front‑end (a felhasználóval kapcsolatban lévő rész) felől érkező adatok feldolgozása, és az eredményeknek 
+    a front‑end felé történő visszajuttatása. 
