@@ -46,6 +46,8 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 
 ## 4.	Jelenlegi üzleti folyamatok modellje:
 
+A Yohihiro Kft. kapcsolatban áll bizonyos intézményekkel, melyek között terjeszti a témakörönként megadott kvízeket. A kiszállítást és az elosztást a cég emberei végzik személyatóval, mely időigényes és költséges. A jelenlegi üzleti modell több okból kifolyólag sem alkalmas hosszútávon, sok hátránya van a kevés előnnyel szemben. Egy innovatív megoldásra van szükség, amelyet egy webes felület tenne lehetővé.
+
 
 ## 5.	Igényelt üzleti folyamatok modellje:
 
