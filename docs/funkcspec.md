@@ -25,7 +25,7 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 
 
 ## 6. Használati esetek
-
+A rendszerünkbe bárki felregisztrálhat egy felhasználó névvel és egy jelszóval.  A regisztrált felhasználók, quizeket tölthetnek ki. Választhatnak 5 ketegória közül, és ezen belül lesznek kérdések . A diákok nyomon tudják követni a kapott pontszámokat, és a sikeres valamint a rossz válaszokat. A tanárok, pedig beikatathatják a mindenapi tanórák rendjébe a quizeket. Amennyiben a diákok sikeresen töltik ki a quizt akkor különböző pontszámokat, és mivel többször is ki tölthető egy adott teszt biztosan elméjül a megszerzett tudás. Az iskolákon kívül otthoni tanulásra vagy szórakozásra is alkalmas a program. Továbbá baráti társaságok összejvetelére is kiváló lehetőséget nyújtanak a kérdések.
 
 ## 7. Megfeleltetés
 
