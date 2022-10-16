@@ -13,7 +13,7 @@
 
 ## 2. Jelenlegi helyzet
 
-  A cég a quizeket jelenleg papír alapon gyártja és nyomtatja nagy mennyiségben, témánként és tantárgyanként kategorizálva, melyet aztán a kapcsolatban álló intézmények és iskolák között szétosztanak. A papírok kiszállítása időigényes folyamat, amely gyakran késéseket és fennakadásokat okozhat, illetve a logisztikai költségek kiküszöbölhetőek lehetnek a virtuális felületre való átállás során. Továbbá, a diákokhoz közelebb álló és egyszerűbb megoldás lenne, ha néhány kattintással a saját készülékükről tudnák kitölteni a számukra megfelelő kvízt. A Yoshihiro Kft. a működésében mihamarabbi változást szeretne, mivel a mostani állapotot fenntartani nem kívánják és nem is tudják.
+    A cég a quizeket jelenleg papír alapon gyártja és nyomtatja nagy mennyiségben, témánként és tantárgyanként kategorizálva, melyet aztán a kapcsolatban álló intézmények és iskolák között szétosztanak. A papírok kiszállítása időigényes folyamat, amely gyakran késéseket és fennakadásokat okozhat, illetve a logisztikai költségek kiküszöbölhetőek lehetnek a virtuális felületre való átállás során. Továbbá, a diákokhoz közelebb álló és egyszerűbb megoldás lenne, ha néhány kattintással a saját készülékükről tudnák kitölteni a számukra megfelelő kvízt. A Yoshihiro Kft. a működésében mihamarabbi változást szeretne, mivel a mostani állapotot fenntartani nem kívánják és nem is tudják.
   
   
   ## 3. Jelenlegi üzleti modell
