@@ -20,6 +20,9 @@ A **Yoshihiro kft.** megrendelő cég, egy diákokat foglalkoztató vállalat, a
 |---|---|---|---|-----|
 |Jogosultság   |K1   |Bejelentkezési felület|1.0   |A felhasználó az email címe vagy felhasználóneve és jelszava segítségével bejelentkezhet. Ha a megadott paraméterek nem megfelelőek, akkor a felhasználó hibaüzenetet kap.  |
 |Jogosultság   |K2   |Regisztráció   |1.0   |A felhasználó regisztrálhatja magát a felhasználó név email cím illetve jelszó megadásával. A jelszó tárolása kódolva történik. Ha valamelyik paramétek hiányzik, vagy nem felel meg a követelményeknek, akkor a rendszer értesíti erről a felhasználót.   |
+|Modifikáció   |K3   |Felhasználó módosítása   |1.0   |A felhasználó módosítani tudja a saját felhasználónevét. Ehhez szükséges a régi és az új felhasználónév megadása, és az új megerősítése.    |
+|Modifikáció   |K4   |Jelszó módosítása  | 1.0  | A felhasználó módosítani tudja saját jelszavát. Ehhez szükséges a régi és az új jelszavának megadása, valamint az új megerősítése.   |
+|Feladattípus  | K5  |Kvíz  |1.0  | Több kérdésből áll, a feladat a helyes válasz kiválasztása több lehetőség közül. A felhasználó pontot kap az eltalált és az el nem talált kvíz illetve teszt kérdések számának függvényében.  |
 
 
 ## 4.	Jelenlegi üzleti folyamatok modellje:
