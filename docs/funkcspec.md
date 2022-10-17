@@ -86,10 +86,10 @@ A rendszerünkbe bárki felregisztrálhat egy felhasználó névvel és egy jels
 
 ## 8. Képernyőterv
     Az alábbi képeken a képernyő kinézetének a vázát láthatjuk.
-![](index.png)
-![](login.png)
-![](list.png)
-![](main.png)    
+![](index.PNG)
+![](login.PNG)
+![](list.PNG)
+![](main.PNG)    
 
 ## 9.  Forgatókönyv
 A szoftverben egy szereplő létezik, amit egy felhasználónév és jelszó azonosít. A kezdő oldalon a felhasználó regisztrálhat, illetve
