@@ -121,4 +121,37 @@
     elérni. A kérdőívekhez szükséges adatokat, szintén ebben az adatbázisban tároljuk. A regisztrációhoz szükséges adatokat a regisztrálás után, a jelszón kívül, mindent az adatbázisba küldünk, a jelszót titkosítva küldjük az adatbázisba a rendszer, illetve a felhasználók adatainak védelme érdekében.  
 
 #### 9. Implemántációs terv
-    A szoftver platform független tekintve, hogy webes felületen fut.
+    A szoftver platform független tekintve, hogy webes felületen fut. Főként HTML, CSS, JAVASCRIPT, NODE.JS, NoSQL nyelveket használ. 
+    Célunk, hogy minden lehetséges eszközön megfelelően és kényelmesen használható legyen. A firebase szoftver ehhez sok segítséget add.
+    
+
+
+#### 10. Tesztterv
+    A tesztelés célja, hogy a fejlesztés során létrejövő hibákat minél korábban felfedezze, és ezzel csökkentse azok kijavításának költségeit.
+
+    Tesztelési eljárások:
+        I. Manuális tesztek:
+            1. Alfa teszt:
+                A teszt célja:
+                A meglévő funkciókat különböző böngészőkben teszteljük. 
+                A tesztet a fejlesztők végzik. Ez a folyamat sikeres, 
+                ha különböző böngészőkben megfelelően működnek a különböző 
+                funkciók.
+            2. Beta teszt:
+                Ezt a tesztet nem a fejlesztők végzik.
+                Tesztelendő böngészők: Google Chrome, Firefox, Opera, Safari.
+                Tesztelendő kijelző méretek: 1280x720, 1366x768, 1920x1080
+                A tesztelés alatt a tesztelő felhasználók visszajelzéseket 
+                küldhetnek a fejlesztőknek hiba fellépése esetén.
+                Ha hiba lép fel, a fejlesztők kijavítják a lehető leggyorsabban.
+        II. Unit teszt
+            Ezzel a teszttel a fejlesztés alatt tudjuk ellenőrizni, hogy egyes 
+            metódusok megfelelően működnek-e. Ezek a Unit teszt a metódusok  
+            megfelelő működésének biztosítására használjuk, így ezeket a 
+            fejlesztés során minél több metódusra alkalmazzuk. Egy metódus akkor 
+            van kész, ha a tesztesetek hiba nélkül lefutnak.
+        III. Funkció tesztetlés:
+            - Regisztrációs felület
+            - Bejelentkezési felület
+            - Elfelejtett jelszó kezelés
+            - Kvízek kipróbálás
