@@ -114,3 +114,11 @@
         • Témakörválasztás        
         • Személyes profil, adatok        
         • Kijelentkezés
+
+#### 8. Architekturális terv
+    A szoftver a Google LLc által fejlesztett Firebase szoftvert fogja használni, illetve annak a lehetőseig. 
+    Az bejelentkezési, illetve a regisztrációs adatokat NoSQL adatbázisban fogja a szoftver tárolni, illetve szükség esetén 
+    elérni. A kérdőívekhez szükséges adatokat, szintén ebben az adatbázisban tároljuk. A regisztrációhoz szükséges adatokat a regisztrálás után, a jelszón kívül, mindent az adatbázisba küldünk, a jelszót titkosítva küldjük az adatbázisba a rendszer, illetve a felhasználók adatainak védelme érdekében.  
+
+#### 9. Implemántációs terv
+    A szoftver platform független tekintve, hogy webes felületen fut.
