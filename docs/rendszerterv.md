@@ -68,19 +68,38 @@
     **Nem funkcionális követelmények:**
 
 
-5. #### . Funkcionális terv
+5. #### Funkcionális terv
 
-    **Rendszerszereplők:**
+    **Rendszerszereplők:** Admin, Felhasználó
+
+    **Rendszerhasználati esetek és lefutásaik:**
+    
+        Admin:
+            - Rendszerhez való teljes hozzáférés
+            - Kvíz létrehozása, törlése, módosítása
+            - Felhasználók hozzáadása, eltávolítása
+            - Felhasználó publikus adatainak megtekintése
+            - Kitöltött kvíz értékelése
+            + A bejelentkezett felhasználó jogosultságai
+    
+        Bejelentkezett felhasználó:
+            - Navigálás a felületen
+            - Témakör kiválasztása és változtatása
+            - Kvíz kitöltése
+            - A kitöltött kvízre kapott értékelés megtekintése
 
     **Menü-hierarchiák:**
 
     1. Login menü
 
         • Bejelentkezés    
-        • Regisztráció
+        • Regisztráció        
+        • Rólunk
 
     2. Main menü
 
         • Kvíz    
-        • Témakörválasztás
+        • Témakörválasztás        
+        • Személyes profil, adatok        
+        • Kijelentkezés
 
