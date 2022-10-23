@@ -27,13 +27,9 @@
 
     **Projektmunkások és felelőségek:**
 
-        Backend munkálatok, Frontend munkálatok: Nekem Mindegy csapata
+    Backend munkálatok, Frontend munkálatok: Nekem Mindegy csapata
 
-        Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a rendszer funkcióinak létrehozása, és a webes felület zökkenőmentes működésének biztosítása. 
-
-        A csapat felelőssége, hogy a megrendelő által kívánt funkciók, és informatikai szolgáltatás a lehető legjobb minőségben kerüljön kivitelezésre.
-
-        A csapat minden tagja felelős a rá kiszabott feladatokért és azok lehető legjobb kivitelezéséért. A Nekem Mindegy csapata vállalja, hogy a szakmai tudásának legjavát nyújtva végzi el a megrendelő által kért szoftver lefejlesztését.
+    Feladatuk, a fronted igényes és felhasználóbarát megalkotása, valamint a rendszer funkcióinak létrehozása, és a webes felület zökkenőmentes működésének biztosítása. A csapat felelőssége, hogy a megrendelő által kívánt funkciók, és informatikai szolgáltatás a lehető legjobb minőségben kerüljön kivitelezésre. A csapat minden tagja felelős a rá kiszabott feladatokért és azok lehető legjobb kivitelezéséért. A Nekem Mindegy csapata vállalja, hogy a szakmai tudásának legjavát nyújtva végzi el a megrendelő által kért szoftver lefejlesztését.
 
     **Ütemterv:**
 
