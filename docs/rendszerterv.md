@@ -24,9 +24,13 @@
     **Projektszerepkörök, felelőségek:**
 
         Scrum master: Nekem Mindegy csapata
+        -------------------------------------
         Product owner: Nekem Mindegy csapata
+        -------------------------------------
         Design: Nekem Mindegy csapata
+        -------------------------------------
         Frontend: Nekem Mindegy csapata
+        -------------------------------------
         Backend: Nekem Mindegy csapata
 
     **Projektmunkások és felelőségek:**
