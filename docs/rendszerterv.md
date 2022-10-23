@@ -20,6 +20,7 @@
             - Egyéb diákokkal foglalkozó intézmények, kisegítése
             - Otthoni tanulás és szülők segítése a gyererk tanulásában
 
+
 2. #### Projektterv
     **Projektszerepkörök, felelőségek:**
 
@@ -62,3 +63,54 @@
 3. #### Üzleti folyamatok modellje
     #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak. A felhasználók, regisztráció vagy bejelentkezés után hozzá férnek a quiz felülethez.
 ![](model.png)
+
+
+4. #### Követelmények
+
+    **Funkcionális követelmények:** 
+    
+        - A felhasználó bejelentkezési adatainak (e-mail cím vagy felhasználónév) tárolása, illetve jelszavának kódolt tárolása
+        - Könnyen átlátható és értelmezhető program az egyszerű kezelhetőség érdekében
+        - Hatékony és gördülékeny működés platformtól függetlenül
+        - Pontos kiértékelő rendszer, amely pontszámot vagy eredményt ír a kitöltött kvízhez
+        - Webes felületen való elérés mobil és tablet eszközről is és optimális megjelenítés (reszponzív webdizájn)
+
+    **Nem funkcionális követelmények:**   
+    
+    A felhasználók nem juthatnak hozzá más felhasználók személyes adataihoz, a program nem tárol a felhasználókról bizalmas információt.
+
+
+5. #### Funkcionális terv
+
+    **Rendszerszereplők:** Admin, Felhasználó
+
+    **Rendszerhasználati esetek és lefutásaik:**
+    
+        Admin:
+            - Rendszerhez való teljes hozzáférés
+            - Kvíz létrehozása, törlése, módosítása
+            - Felhasználók hozzáadása, eltávolítása
+            - Felhasználó publikus adatainak megtekintése
+            - Kitöltött kvíz értékelése
+            + A bejelentkezett felhasználó jogosultságai
+    
+        Bejelentkezett felhasználó:
+            - Navigálás a felületen
+            - Témakör kiválasztása és változtatása
+            - Kvíz kitöltése
+            - A kitöltött kvízre kapott értékelés megtekintése
+
+    **Menü-hierarchiák:**
+
+    1. Login menü
+
+        • Bejelentkezés    
+        • Regisztráció        
+        • Rólunk
+
+    2. Main menü
+
+        • Kvíz    
+        • Témakörválasztás        
+        • Személyes profil, adatok        
+        • Kijelentkezés
