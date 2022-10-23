@@ -63,9 +63,16 @@
 
 4. #### Követelmények
 
-    **Funkcionális követelmények:**
+    **Funkcionális követelmények:** 
+    
+        - A felhasználó bejelentkezési adatainak (e-mail cím vagy felhasználónév) tárolása, illetve jelszavának kódolt tárolása
+        - Könnyen átlátható és értelmezhető program az egyszerű kezelhetőség érdekében
+        - Hatékony és gördülékeny működés platformtól függetlenül
+        - Pontos kiértékelő rendszer, amely pontszámot vagy eredményt ír a kitöltött kvízhez
+        - Webes felületen való elérés mobil és tablet eszközről is és optimális megjelenítés (reszponzív webdizájn)
 
-    **Nem funkcionális követelmények:**    
+    **Nem funkcionális követelmények:**   
+    
     A felhasználók nem juthatnak hozzá más felhasználók személyes adataihoz, a program nem tárol a felhasználókról bizalmas információt.
 
 
