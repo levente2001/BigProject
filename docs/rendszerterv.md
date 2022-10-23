@@ -61,10 +61,7 @@
 
 
 3. #### Üzleti folyamatok modellje
-    #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak. A felhasználók, regisztráció vagy bejelentkezés után hozzá férnek a quiz felülethez. 
-    ### Ha esetleg elfelejtették a felhasználók a jelszavukat csinálhatnak újat emailon keresztül. 
-    ### Miután bejelentkeztek a felületbe, kiálaszthatják milyen kategóriájú quzit szeretnének játszani
-    ### A ketegória kiválasztása után megkezdhetik a quiz kitöltését.
+    #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak. A felhasználók, regisztráció vagy bejelentkezés után hozzá férnek a quiz felülethez. Ha esetleg elfelejtették a felhasználók a jelszavukat csinálhatnak újat emailon keresztül. Miután bejelentkeztek a felületbe, kiálaszthatják milyen kategóriájú quzit szeretnének játszani. A ketegória kiválasztása után megkezdhetik a quiz kitöltését.
     ![](modell.png)
 
 
