@@ -76,11 +76,11 @@
 
     1. Login menü
 
-    • Bejelentkezés
-    • Regisztráció
+        • Bejelentkezés    
+        • Regisztráció
 
     2. Main menü
 
-    • Kvíz
-    • Témakörválasztás
+        • Kvíz    
+        • Témakörválasztás
 
