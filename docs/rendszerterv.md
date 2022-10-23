@@ -20,6 +20,7 @@
             - Egyéb diákokkal foglalkozó intézmények, kisegítése
             - Otthoni tanulás és szülők segítése a gyererk tanulásában
 
+
 2. #### Projektterv
     **Projektszerepkörök, felelőségek:**
 
@@ -58,3 +59,11 @@
 3. #### Üzleti folyamatok modellje
     #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak. A felhasználók, regisztráció vagy bejelentkezés után hozzá férnek a quiz felülethez.
 ![](model.png)
+
+
+4. #### Követelmények
+**Funkcionális követelmények:**
+**Nem funkcionális követelmények:**
+
+
+5. #### 
