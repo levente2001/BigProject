@@ -63,24 +63,24 @@
 
 4. #### Követelmények
 
-**Funkcionális követelmények:**
+    **Funkcionális követelmények:**
 
-**Nem funkcionális követelmények:**
+    **Nem funkcionális követelmények:**
 
 
 5. #### . Funkcionális terv
 
-**Rendszerszereplők:**
+    **Rendszerszereplők:**
 
-**Menü-hierarchiák:**
+    **Menü-hierarchiák:**
 
-1. Login menü
+    1. Login menü
 
-• Bejelentkezés
-• Regisztráció
+    • Bejelentkezés
+    • Regisztráció
 
-2. Main menü
+    2. Main menü
 
-• Kvíz
-• Témakörválasztás
+    • Kvíz
+    • Témakörválasztás
 
