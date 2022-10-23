@@ -56,5 +56,5 @@
 
 
 3. #### Üzleti folyamatok modellje
-    #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak.
+    #### Az alábbi modellen, azt láthatjuk ahogyan a működési folyamatok zajlanak. A felhasználók, regisztráció vagy bejelentkezés után hozzá férnek a quiz felülethez.
 ![](model.png)
