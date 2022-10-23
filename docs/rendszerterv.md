@@ -65,7 +65,8 @@
 
     **Funkcionális követelmények:**
 
-    **Nem funkcionális követelmények:**
+    **Nem funkcionális követelmények:**    
+    A felhasználók nem juthatnak hozzá más felhasználók személyes adataihoz, a program nem tárol a felhasználókról bizalmas információt.
 
 
 5. #### Funkcionális terv
@@ -102,4 +103,3 @@
         • Témakörválasztás        
         • Személyes profil, adatok        
         • Kijelentkezés
-
