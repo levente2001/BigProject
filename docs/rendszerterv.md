@@ -141,8 +141,8 @@
 #### 7. Abstract domain model
      • Az alábbi modell az abstract komponenseket és
      ezek kapcsolatait írja le.
-    
-    ![](AbstractModel.png)
+
+![](AstractModel.png)
     
     
     
