@@ -119,6 +119,14 @@
     • A program web platformra készül, elérhető lesz 
     bármilyen eszközön, ami képes webböngésző futtatására.
     • Nincsenek megvásárolt komponenseink.
+
+    1. Ajánlott böngészők:
+        • Google Chrome
+        • Mozilla Firefox
+        • Microsoft Edge
+        • Safari
+        • Opera
+    
     
 
 #### 8. Architekturális terv
