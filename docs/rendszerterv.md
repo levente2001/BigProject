@@ -115,6 +115,12 @@
         • Személyes profil, adatok        
         • Kijelentkezés
 
+#### 6. Fizikai környezet
+    • A program web platformra készül, elérhető lesz 
+    bármilyen eszközön, ami képes webböngésző futtatására.
+    • Nincsenek megvásárolt komponenseink.
+    
+
 #### 8. Architekturális terv
     A szoftver a Google LLc által fejlesztett Firebase szoftvert fogja használni, illetve annak a lehetőseig. 
     Az bejelentkezési, illetve a regisztrációs adatokat NoSQL adatbázisban fogja a szoftver tárolni, illetve szükség esetén 
