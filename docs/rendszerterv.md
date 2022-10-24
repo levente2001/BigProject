@@ -126,6 +126,12 @@
         • Microsoft Edge
         • Safari
         • Opera
+    2. File típusok
+        • Css
+        • JavaScript
+        • Html
+        • Php
+    
     
     
 
