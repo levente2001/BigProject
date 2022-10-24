@@ -131,6 +131,12 @@
         • JavaScript
         • Html
         • Php
+
+    3. Fejlesztői eszközök
+        • Visual Studio Code
+        • Firebase
+        • GitHub
+        • Trello
     
     
     
