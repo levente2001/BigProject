@@ -9,9 +9,6 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
-.font_righteous {
-    font-family: 'Righteous', cursive;
-}
 
 /*====================
     GENERAL CONSTANTS
@@ -35,7 +32,6 @@ body{
         QUESTIONS
 ======================*/
 #question {
-    margin-top: 100px;
     background-color: #F57C00;
     color: white;
     border-radius: 10px;
@@ -69,7 +65,7 @@ body{
 #answers ul{
     list-style-type: none;
     padding: 0;
-    margin-top: 50px;
+    margin-top: 2rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

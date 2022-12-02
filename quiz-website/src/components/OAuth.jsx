@@ -35,6 +35,7 @@ export default function OAuth() {
       toast.error("Authentication with Google is failed");
 
     }
+
   }
   return (
         <button type="button" onClick={onGoogleClick} className="flex items-center justify-center w-full bg-[#DB4437] text-white px-7 py-3 uppercase text-sm 
@@ -44,4 +45,3 @@ export default function OAuth() {
         </button>
   )
 }
-

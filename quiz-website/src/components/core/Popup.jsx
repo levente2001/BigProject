@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import MyButton from '../util/MyButton.jsx';
 import Fade from 'react-reveal/Fade';
-import { Link, useNavigate } from 'react-router-dom';
-
 class Popup extends Component {
     
     constructor(props) {
@@ -20,7 +18,6 @@ class Popup extends Component {
     
     popupHandle() {
         let { time } = this.state;
-        const navigate = useNavigate();
         
         if(time === 'start'){
             this.setState({
@@ -34,7 +31,7 @@ class Popup extends Component {
         } else {
             
             //alert("FINISHED QUIZ");            
-            navigate("/");// restart the application
+            window.location.reload();// restart the application
         }
     }
      
