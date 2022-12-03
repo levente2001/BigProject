@@ -2,6 +2,7 @@ import { getAuth } from 'firebase/auth';
 import React from 'react';
 import { useState } from 'react';
 import { Navigate, useAsyncError, useNavigate } from 'react-router-dom';
+import { toast } from 'react-toastify';
 
 
 export default function Profile()
@@ -31,7 +32,14 @@ export default function Profile()
     }
 
     function onSubmit(){
-        
+        try {
+            if(auth.currentUser.displayName !== name)
+            {
+                
+            }
+        } catch (error) {
+            toast.error("Could not update the profile details!");
+        }
     }
     return (
         <>
@@ -42,13 +50,15 @@ export default function Profile()
                         {/*Name Input*/}
                         <input type="text" id="name" value={name} disabled={!changeDetail} 
                         onChange={onChange}
-                        className='w-full px-4 py-2 mb-6 text-xl text-gray-600 
-                        bg-white border border-gray-300 rounded transition ease-in-out'/>
+                        className={`w-full px-4 py-2 mb-6 text-xl text-gray-600 
+                        bg-white border border-gray-300 rounded transition ease-in-out ${changeDetail && 
+                            "bg-red-200 focus:bg-red-200" }`} />
                          {/*Email Input*/}
                          <input type="email" id="email" value={email} disabled={!changeDetail} 
                          onChange={onChange}
-                         className='w-full px-4 py-2 mb-6 text-xl text-gray-600 
-                        bg-white border border-gray-300 rounded transition ease-in-out'/>   
+                         className={`w-full px-4 py-2 mb-6 text-xl text-gray-600 
+                        bg-white border border-gray-300 rounded transition ease-in-out ${changeDetail && 
+                        "bg-red-200 focus:bg-red-200" }`}/>   
 
                         <div className='flex justify-between whitespace-nowrap text-sm sm:text-lg mb-6'> 
                             <p className='flex  items-center text-[#4F311C] '>Do you want to change your name?
