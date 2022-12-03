@@ -1,13 +1,14 @@
+import { getAuth } from 'firebase/auth';
 import React from 'react';
 import { useState } from 'react';
 
 
 export default function Profile()
 {
-
+    const auth = getAuth()
     const [formData, setFormData] = useState({
-        name: 'Dominik',
-        email: 'dominikkikina68@gmail.com',
+        name: auth.currentUser.displayName,
+        email: auth.currentUser.email,
 
     });
 
@@ -35,7 +36,6 @@ export default function Profile()
                                 Sign out
                             </p>
                         </div>
-
                     </form>
                 </div>
             </section>

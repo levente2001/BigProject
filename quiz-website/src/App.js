@@ -3,6 +3,7 @@ import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
+import PrivateRoute from "./components/PrivateRoute";
 import QuizThemes from "./pages/QuizThemes";
 import ForgotPassword from "./pages/ForgotPassword";
 import Header from "./components/Header";
@@ -18,6 +19,9 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="profile" element={<PrivateRoute />}>
+          <Route path="/profile" element={<Profile />}/>
+        </Route>
         <Route path="/quiz" element={<Quiz />} />
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/sign-up" element={<SignUp />} />
