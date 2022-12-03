@@ -5,3 +5,7 @@
 | Google általi regisztráció | Regisztrálás a software-be Google authentikáció használatával. |Regisztráció sikeres. | PASS | Google Chrome | Kikina Dominik | 2022.11.07. | 
 | Google általi regisztráció | Regisztrálás a software-be Google authentikáció használatával. |Regisztráció sikeres. | PASS | Mozilla Firefox | Kikina Dominik | 2022.11.07. | 
 | Google általi regisztráció | Regisztrálás a software-be Google authentikáció használatával. |Regisztráció sikeres. | PASS | Google Chrome (mobil) | Kikina Dominik | 2022.11.07. | 
+| Bejelentkezés | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome | Kikina Dominik | 2022.11.14. | 
+| Bejelentkezés | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.14. | 
+| Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome | Kikina Dominik | 2022.11.15. | 
+| Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.15. | 
