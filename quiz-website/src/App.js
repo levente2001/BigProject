@@ -3,6 +3,7 @@ import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 import Home from "./pages/Home";
 import SignIn from "./pages/SignIn";
 import SignUp from "./pages/SignUp";
+import QuizThemes from "./pages/QuizThemes";
 import ForgotPassword from "./pages/ForgotPassword";
 import Header from "./components/Header";
 import { ToastContainer } from "react-toastify";
@@ -20,6 +21,7 @@ function App() {
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
+        <Route path="/quiz-themes" element={<QuizThemes />} />
       </Routes>
     </Router>
     <ToastContainer
