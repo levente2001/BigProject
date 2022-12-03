@@ -1,13 +1,14 @@
 import { getAuth } from 'firebase/auth';
 import React from 'react';
 import { useState } from 'react';
-import { Navigate, useNavigate } from 'react-router-dom';
+import { Navigate, useAsyncError, useNavigate } from 'react-router-dom';
 
 
 export default function Profile()
 {
     const auth = getAuth();
     const  navigate = useNavigate();
+    const[changeDetail, setChangeDetail] = useState(false);
     const [formData, setFormData] = useState({
         name: auth.currentUser.displayName,
         email: auth.currentUser.email,
@@ -35,8 +36,11 @@ export default function Profile()
 
                         <div className='flex justify-between whitespace-nowrap text-sm sm:text-lg mb-6'> 
                             <p className='flex  items-center text-[#4F311C] '>Do you want to change your name?
-                                <span className='text-red-500 hover:text-red-800 transition ease-in-out duration-200 ml-2 cursor-pointer'>
-                                    Edit
+                                <span 
+                                    onClick={() => setChangeDetail((prevState) => !prevState )} 
+                                        className='text-red-500 hover:text-red-800 transition ease-in-out duration-200 ml-2 
+                                        cursor-pointer'>
+                                    {changeDetail ? "Apply changes" : "Edit"}
                                 </span>
                             </p>
                             <p onClick={onLogout    } className='text-[#087CA7] hover:text-blue-900 transi ease-in-out duration-200 cursor-pointer'>
