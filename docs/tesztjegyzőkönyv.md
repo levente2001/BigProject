@@ -15,3 +15,6 @@
 | Elfelejtett jelszó | Oldal dizájn teszt megfelelő mobilon. | Megfelelő és használható mobil kijelzőn | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11. 27. |
 | Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése PCn. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Google Chrome | Kikina Dominik | 2022.11. 28. |  
 | Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése mobilon. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11. 28. |
+| Profil oldal dizájn teszt | Profil oldal használhatóan PCn. | Profil oldal megfelelő és használható PCn. | PASS | Google Chrome | Kikina Dominik | 2022.12.02. | 
+| Profil oldal dizájn teszt | Profil oldal használhatóan mobil. | Profil oldal megfelelő és használható mobil. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.12.02. | 
+|Profil oldal funkcionális teszt | Profil oldal megváltazható a felhasználó neve | Sikeresen megváltozott a felhasználó neve | PASS | Google Chrome | Kikina Dominik | 2022.12.03 |  
