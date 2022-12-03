@@ -20,9 +20,15 @@ export default function Header() {
             </div>
             <div>
                 <ul className="flex space-x-10">
-                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent ${pathMatchRoute("/") && "text-black border-b-[#8c5000]"}`} onClick={() => navigate("/")}>Home</li>
-                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent ${pathMatchRoute("/sign-up") && "text-black border-b-[#8c5000]"}`} onClick={() => navigate("/sign-up")}>Sign up</li>
-                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent ${pathMatchRoute("/sign-in") && "text-black border-b-[#8c5000]"}`} onClick={() => navigate("/sign-in")}>Sign In</li>
+                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent 
+                    ${pathMatchRoute("/") && "text-black border-b-[#8c5000]"}`} 
+                    onClick={() => navigate("/")}>Home</li>
+                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent 
+                    ${pathMatchRoute("/quiz-themes") && "text-black border-b-[#8c5000]"}`} 
+                    onClick={() => navigate("/quiz-themes")}>Quiz themes</li>
+                    <li className={`cursor-pointer py-3 text-sm font-semibold text-gray-600 border-b-[3px] border-b-transparent 
+                    ${pathMatchRoute("/sign-in") && "text-black border-b-[#8c5000]"}`} 
+                    onClick={() => navigate("/sign-in")}>Sign In</li>
                 </ul>
             </div>
         </header>
