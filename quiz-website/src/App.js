@@ -22,12 +22,14 @@ function App() {
         <Route path="profile" element={<PrivateRoute />}>
           <Route path="/profile" element={<Profile />}/>
         </Route>
+        <Route path="/quiz-themes" element={<PrivateRoute />}>
+          <Route path="/quiz-themes" element={<QuizThemes />} />
+        </Route>
         <Route path="/quiz" element={<Quiz />} />
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
-        <Route path="/quiz-themes" element={<QuizThemes />} />
-        <Route path="/profile" element={<Profile />} />
+        
       </Routes>
     </Router>
     <ToastContainer
