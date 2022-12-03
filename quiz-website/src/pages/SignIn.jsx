@@ -31,7 +31,7 @@ export default function SignIn() {
       const userCredentials = await signInWithEmailAndPassword(auth, email, password);
 
       if (userCredentials.user) {
-        navigate("/quiz");
+        navigate("/quiz-themes");
       }
     } catch (error) {
 

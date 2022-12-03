@@ -30,7 +30,7 @@ export default function OAuth() {
           timestamp: serverTimestamp()
       })
       }
-      navigate("/quiz");
+      navigate("/quiz-themes");
     } catch (error) {
       toast.error("Authentication with Google is failed");
 
