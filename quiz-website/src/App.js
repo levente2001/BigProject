@@ -9,6 +9,7 @@ import Header from "./components/Header";
 import { ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
 import Quiz from "./components/core/Main";
+import Profile from "./pages/Profile";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />
         <Route path="/quiz-themes" element={<QuizThemes />} />
+        <Route path="/profile" element={<Profile />} />
       </Routes>
     </Router>
     <ToastContainer
