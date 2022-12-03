@@ -9,5 +9,9 @@
 | Bejelentkezés | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.14. | 
 | Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome | Kikina Dominik | 2022.11.15. | 
 | Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.15. | 
-Dizájn teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatatlanok | FAIL | Google Chrome (mobil) | Kikina Dominik | 2022.11.17. |
-Dizájn teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatóak és célnak megfelelően müködnek | PASS | Google Chrome (mobil) | Kikina Dominik | 2022.11.18. |
+| Dizájn teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatatlanok | FAIL | Google Chrome (mobil) | Kikina Dominik | 2022.11.17. |
+| Dizájn teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatóak és célnak megfelelően müködnek | PASS | Google Chrome (mobil) | Kikina Dominik | 2022.11.18. |
+| Elfelejtett jelszó | Oldal dizájn teszt megfelelő PCn. | Megfelelő és használható PCn | PASS | Google Chrome | Kikina Dominik | 2022.11. 25. | 
+| Elfelejtett jelszó | Oldal dizájn teszt megfelelő mobilon. | Megfelelő és használható mobil kijelzőn | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11. 27. |
+| Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése PCn. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Google Chrome | Kikina Dominik | 2022.11. 28. |  
+| Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése mobilon. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11. 28. |
