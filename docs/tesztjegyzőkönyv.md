@@ -9,3 +9,5 @@
 | Bejelentkezés | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.14. | 
 | Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome | Kikina Dominik | 2022.11.15. | 
 | Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.11.15. | 
+Dizáj teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatatlanok | FAIL | Google Chrome (mobil) | Kikina Dominik | 2022.11.17. |
+Dizáj teszt | Mobil kijelzőn a regisztrációs és bejelentkezős oldal is használhatóan müködik| Mobil kijelzőn az oldalak használhatóak és célnak megfelelően müködnek | PASS | Google Chrome (mobil) | Kikina Dominik | 2022.11.18. |
