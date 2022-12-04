@@ -9,7 +9,6 @@ export default [
         ],
         correct: 4
     },
-
     {
         question: 'Az alábbiak közül melyik egy mostanában használt, megjelenítéshez használható csatlakozó?',
         answers: [
@@ -69,5 +68,35 @@ export default [
             'Mindegyik'
         ],    
         correct: 1
+    },
+    {
+        question: 'Mivel jellemezhetjük a monitor méretét?',
+        answers: [
+            'A képcső szélességének méretével',
+            'A képátlójának méretével', 
+            'A képernyő magasságának méretével', 
+            'Centiméterrel'
+        ],    
+        correct: 2
+    },
+    {
+        question: 'Mi a memória?',
+        answers: [
+            'Adatbeviteli eszköz',
+            'Adatmegjelenítő', 
+            'Adatátvitelre szolgáló alkatrész', 
+            'Adattároló'
+        ],    
+        correct: 4
+    },
+    {
+        question: 'Mitől NEM függ a felbontás?',
+        answers: [
+            'A videókártya (grafikus kártya) típusától.',
+            'A monitor színétől', 
+            'A videókártyán lévő memória nagyságától.', 
+            'A monitor típusától.'
+        ],    
+        correct: 2
     }
 ]
