@@ -45,18 +45,6 @@ footer{
     h1{
         margin-top: 12rem;
         font-size: 2rem;
-        margin-left: 2rem;
-        margin-right: 2rem;
-    }
-    footer{
-        margin-left: 2rem;
-        margin-right: 2rem;
-    }
-}
-@media only screen and (max-width: 440px) {
-    h1{
-        margin-top: 12rem;
-        font-size: 1.5rem;
         margin-left: 1rem;
         margin-right: 1rem;
     }
