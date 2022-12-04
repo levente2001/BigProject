@@ -22,3 +22,4 @@
 | Quiz weboldal dizájn| Oldal dizájn teszt megfelelő Mozilla Firefox-on PC-s környezetben. | Megfelelő és használható Mozilla Firefox-on PC-s környezetben. | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal dizájn| Oldal dizájn teszt megfelelő Safari-n mobilos környezetben. | Megfelelő és használható Safari-n mobilos környezetben. | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Az oldalra való átlépéskor üdvözlő üzenet megjelenése, és kinézete Google Chrome-on PC-s környezetben. | Megfelelő Google Chrome-on PC-s környezetben. | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Az oldalra való átlépéskor üdvözlő üzenet megjelenése, és kinézete Mozilla Firefox-on PC-s környezetben. | Megfelelő Mozilla Firefox-on PC-s környezetben. | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
