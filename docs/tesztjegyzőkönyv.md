@@ -37,3 +37,4 @@
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Google Chrome-on PC-s környezetben | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Mozilla Firefox-on PC-s környezetben | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Safari-n mobilos környezetben. | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Google Chrome-on mobilos környezetben. | PASS | Google Chrome(mobil) | Kriszt Dániel | 2022.12.04. |
