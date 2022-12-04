@@ -39,3 +39,23 @@
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Safari-n mobilos környezetben. | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Google Chrome-on mobilos környezetben. | PASS | Google Chrome(mobil) | Kriszt Dániel | 2022.12.04. |
 | App.js teszt | Renderelődik e az App.js-ben található komponensek | Az App.js-ben írt komponensek megjelennek | PASS | Google Chrome |Kikina Dominik |2022.12.04 | 
+| Quiz weboldal dizájn | Oldal dizájn teszt megfelelő Microsoft Edge-n PC-s környezetben. | Megfelelő és használható Microsoft Edge-n PC-s környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal dizájn| Oldal dizájn teszt megfelelő Opera-n mobilos környezetben. | Megfelelő és használható Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. | 
+| Bejelentkezés Google authentikációval | Regisztráció utáni adatokkal sikeres bejelentkezés.  | Bejelentkezés sikeres. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. | 
+| Profil oldal dizájn teszt | Profil oldal használható PC-n. | Profil oldal megfelelő és használható PC-n. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. | 
+| Profil oldal dizájn teszt | Profil oldal használhatóan mobilon. | Profil oldal megfelelő és használható mobilon. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Elfelejtett jelszó | Oldal dizájn teszt megfelelő PC-n. | Megfelelő és használható PC-n | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. | 
+| Elfelejtett jelszó | Oldal dizájn teszt megfelelő mobilon. | Megfelelő és használható mobil kijelzőn | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése PC-n. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |  
+| Elfelejtett jelszó funkcionalitás| Oldal funkcionalitásának tesztelése mobilon. | Funkcionalitás müködik. Email érkezik a felhasználónak a megfelelő email címre.   | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Az oldalra való átlépéskor üdvözlő üzenet megjelenése, és kinézete Microsoft Edge-n PC-s környezetben. | Megfelelő Microsoft Edge-n PC-s környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Az oldalra való átlépéskor üdvözlő üzenet megjelenése, és kinézete Opera-n mobilos környezetben. | Megfelelő Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Hibás válaszra való kattintás esetén a válasz színe piros. | Megfelelő és használható Microsoft Edge-n PC-s környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Hibás válaszra való kattintás esetén a válasz színe piros. | Megfelelő és használható Opera-n mobilos környezetben | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Helyes válaszra való kattintás esetén a válasz színe zöld. | Megfelelő és használható Microsoft Edge-n PC-s környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Helyes válaszra való kattintás esetén a válasz színe zöld. | Megfelelő és használható Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva megjelenik a közetkező kérdés. | Megfelelő és használható Microsoft Edge-n PC-s környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva megjelenik a közetkező kérdés. | Megfelelő és használható Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Microsoft Edge-n mobilos környezetben. | PASS | Microsoft Edge | Brudnyák Botond | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
