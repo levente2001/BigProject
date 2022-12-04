@@ -61,7 +61,7 @@
 | Quiz weboldal funkcionalitás| Next question gombra kattinva a "Question" szöveg után a szám(a kérdés számláló) egyel nő. | Megfelelő és használható Opera-n mobilos környezetben. | PASS | Opera(mobil) | Brudnyák Botond | 2022.12.04. |
 | Főoldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez tableten. | Reszponzív főoldal tablet használata esetén. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
 | Főoldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez PC-n. | Reszponzív főoldal PC használata esetén. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
-| Főoldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez tableten. | Reszponzív főoldal mubiltelefon használata esetén. | PASS | Safari (mobil) | Máté Dominik | 2022.12.04. |
+| Főoldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez mobilon. | Reszponzív főoldal mubiltelefon használata esetén. | PASS | Safari (mobil) | Máté Dominik | 2022.12.04. |
 | Helytelen jelszó megadása | A bejelentkezés elutasítása. | Hibás jelszó esetén a bejelentkezés megtagadva tablet készüléken. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
 | Helytelen jelszó megadása | A bejelentkezés elutasítása. | Hibás jelszó esetén a bejelentkezés megtagadva PC-n. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
 | Téves adatok bevitele regisztráció közben | Regisztráció elutasítása és hibaüzenet kiírása PC-n. | Regisztráció nem teljesíthető és felugró hibaüzenet. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
