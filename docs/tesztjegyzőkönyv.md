@@ -27,3 +27,4 @@
 | Quiz weboldal funkcionalitás| Az oldalra való átlépéskor üdvözlő üzenet megjelenése, és kinézete Safari-n mobilos környezetben. | Megfelelő Safari-n mobilos környezetben. | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Hibás válaszra való kattintás esetén a válasz színe piros. | Megfelelő és használható Google Chrome-on PC-s környezetben. | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Hibás válaszra való kattintás esetén a válasz színe piros. | Megfelelő és használható Mozilla Firefox-on PC-s környezetben. | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Hibás válaszra való kattintás esetén a válasz színe piros. | Megfelelő és használható Safari-n mobilos környezetben | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
