@@ -68,3 +68,7 @@
 | Téves adatok bevitele regisztráció közben | Regisztráció elutasítása és hibaüzenet kiírása tableten. | Regisztráció nem teljesíthető és felugró hibaüzenet. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
 | Google-bejelentkezés | Google-fiók használata esetén felugró authentikációs ablak. | Authentikációs ablak megjelenik PC-n. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
 | Google-bejelentkezés | Google-fiók használata esetén felugró authentikációs ablak. | Authentikációs ablak megjelenik tableten. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Quiz kezdése | Üdvözlő ablak megjelenése quiz elindításakor. | Az üzenet kezdéskor megjelenik tableten. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Quiz kezdése | Üdvözlő ablak megjelenése quiz elindításakor. | Az üzenet kezdéskor megjelenik PC-s környezetben. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
+| Quiz befejezése | Azonnali értékelés a quiz kitöltése után. | Az eredmény pontszámmal értékelve PC használatakor. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
+| Quiz befejezése | Azonnali értékelés a quiz kitöltése után. | Az eredmény pontszámmal értékelve tablet használatakor. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
