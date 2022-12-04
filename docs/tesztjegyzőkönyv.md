@@ -19,3 +19,4 @@
 | Profil oldal dizájn teszt | Profil oldal használhatóan mobil. | Profil oldal megfelelő és használható mobil. | PASS | Google Chrome(mobil) | Kikina Dominik | 2022.12.02. | 
 |Profil oldal funkcionális teszt | Profil oldal megváltazható a felhasználó neve | Sikeresen megváltozott a felhasználó neve | PASS | Google Chrome | Kikina Dominik | 2022.12.03 |
 | Quiz weboldal | Oldal dizájn teszt megfelelő Google Chrome-on PC-s környezetben. | Megfelelő és használható Google Chrome-on PC-s környezetben. | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
+| Quiz weboldal | Oldal dizájn teszt megfelelő Mozilla Firefox-on PC-s környezetben. | Megfelelő és használható Mozilla Firefox-on PC-s környezetben. | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
