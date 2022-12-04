@@ -31,3 +31,4 @@
 | Quiz weboldal funkcionalitás| Helyes válaszra való kattintás esetén a válasz színe zöld. | Megfelelő és használható Google Chrome-on PC-s környezetben. | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Helyes válaszra való kattintás esetén a válasz színe zöld. | Megfelelő és használható Mozilla Firefox-on PC-s környezetben. | PASS | Mozilla Firefox | Kriszt Dániel | 2022.12.04. |
 | Quiz weboldal funkcionalitás| Helyes válaszra való kattintás esetén a válasz színe zöld. | Megfelelő és használható Safari-n mobilos környezetben. | PASS | Safari(mobil) | Kriszt Dániel | 2022.12.04. |
+| Quiz weboldal funkcionalitás| Next question gombra kattinva megjelenik a közetkező kérdés. | Megfelelő és használható Google Chrome-on PC-s környezetben. | PASS | Google Chrome | Kriszt Dániel | 2022.12.04. |
