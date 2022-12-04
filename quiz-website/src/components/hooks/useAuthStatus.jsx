@@ -1,6 +1,6 @@
 import { getAuth, onAuthStateChanged } from 'firebase/auth';
 import { useEffect } from 'react';
-import { useState } from 'react'
+import { useState } from 'react' ;
 
 export function useAuthStatus() {
     const [loggedIn, setLoggedIn] = useState(false);

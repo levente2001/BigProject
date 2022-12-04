@@ -80,7 +80,7 @@ class Biosz extends Component {
     let { count, total, question, answers, correct, showButton, questionAnswered, displayPopup, score} = this.state;
 
     return (
-      <div className="container flex justify-center flex-wrap items-center px-6 py-12 max-w-6xl mx-auto">
+      <div className="container flex justify-center flex-wrap items-center px-6 py-12 max-w-6xl mx-auto ">
        
        <Popup style={{display: displayPopup}} 
              score={score} 
