@@ -6,7 +6,38 @@ body{
     padding:0;
     margin:0;
     background-color:#EDBF85;
+    min-height: 100vh;
     font-family: 'Quicksand', sans-serif;
+}
+
+.theme {
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    height: 93vh;
+}
+
+.kategoria {
+    flex: 1;
+    display: flex;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0.6em;
+    margin-right: 0.6em;
+    margin-top: 0.3em;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: xx-large;
+    transition-duration: .3s;
+}
+
+.kategoria:hover {
+    flex: 2;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
 }
 
 

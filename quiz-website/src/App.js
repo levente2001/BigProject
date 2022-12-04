@@ -9,7 +9,13 @@ import ForgotPassword from "./pages/ForgotPassword";
 import Header from "./components/Header";
 import { ToastContainer } from "react-toastify";
 import 'react-toastify/dist/ReactToastify.css';
+
 import Quiz from "./components/core/Main";
+import Biosz from "./components/core/Biosz";
+import Matek from "./components/core/Matek";
+import Tori from "./components/core/Tori";
+import Kemia from "./components/core/Kemia";
+
 import Profile from "./pages/Profile";
 
 function App() {
@@ -25,7 +31,13 @@ function App() {
         <Route path="/quiz-themes" element={<PrivateRoute />}>
           <Route path="/quiz-themes" element={<QuizThemes />} />
         </Route>
+
         <Route path="/quiz" element={<Quiz />} />
+        <Route path="/bioszquiz" element={<Biosz />} />
+        <Route path="/matekquiz" element={<Matek />} />
+        <Route path="/toriquiz" element={<Tori />} />
+        <Route path="/kemiaquiz" element={<Kemia />} />
+
         <Route path="/sign-in" element={<SignIn />} />
         <Route path="/sign-up" element={<SignUp />} />
         <Route path="/forgot-password" element={<ForgotPassword />} />

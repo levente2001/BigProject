@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import data from '../questions_data/informatika';
+import data from '../questions_data/biosz';
 import Answers from './Answers.jsx';
 import Popup from './Popup.jsx';
 
-class Main extends Component {
+class Biosz extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -119,4 +119,4 @@ class Main extends Component {
     )
   }
 }
-export default Main;
+export default Biosz;
