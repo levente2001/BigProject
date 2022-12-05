@@ -72,3 +72,10 @@
 | Quiz kezdése | Üdvözlő ablak megjelenése quiz elindításakor. | Az üzenet kezdéskor megjelenik PC-s környezetben. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
 | Quiz befejezése | Azonnali értékelés a quiz kitöltése után. | Az eredmény pontszámmal értékelve PC használatakor. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
 | Quiz befejezése | Azonnali értékelés a quiz kitöltése után. | Az eredmény pontszámmal értékelve tablet használatakor. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Kitöltő oldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez PC-n. | Reszponzív kitöltő oldal PC használata esetén. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
+| Kitöltő oldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez mobilon. | Reszponzív kitöltő oldal mubiltelefon használata esetén. | PASS | Safari (mobil) | Máté Dominik | 2022.12.04. |
+| Kitöltő oldal reszponzivitás | A weboldal alkalmazkodik a képernyő méretéhez tableten. | Reszponzív kitöltő oldal tablet használata esetén. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Quiz kitöltése | A program használata egyszerű és a felülete áttekinthető. | Akadásmentes működés, egyszerű kezelhetőség tablet használata esetén. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Quiz kitöltése | A program használata egyszerű és a felülete áttekinthető. | Akadásmentes működés, egyszerű kezelhetőség PC használata esetén. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
+| Quiz weboldal funkcionalitás | Visszatérés a homepage-re a logóra kattintáskor. | Logóra kattintáskor a főoldalra kerülünk tableten. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
+| Quiz weboldal funkcionalitás | Visszatérés a homepage-re a logóra kattintáskor. | Logóra kattintáskor a főoldalra kerülünk PC-n. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
