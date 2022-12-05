@@ -31,7 +31,7 @@ class Popup extends Component {
         } else {
             
             //alert("FINISHED QUIZ");            
-            window.location.reload();// restart the application
+            window.location.reload(true);// restart the application
         }
     }
      
