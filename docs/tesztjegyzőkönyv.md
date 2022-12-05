@@ -79,3 +79,8 @@
 | Quiz kitöltése | A program használata egyszerű és a felülete áttekinthető. | Akadásmentes működés, egyszerű kezelhetőség PC használata esetén. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
 | Quiz weboldal funkcionalitás | Visszatérés a homepage-re a logóra kattintáskor. | Logóra kattintáskor a főoldalra kerülünk tableten. | PASS | Safari (tablet) | Máté Dominik | 2022.12.04. |
 | Quiz weboldal funkcionalitás | Visszatérés a homepage-re a logóra kattintáskor. | Logóra kattintáskor a főoldalra kerülünk PC-n. | PASS | Mozilla Firefox | Máté Dominik | 2022.12.04. |
+| Quiz weboldal ketgória oldal funkcionalitás | A kártyára kattintva átnavigál a következő oldalra | Sikeresen átkerül a felhasználó a következő oldalra | PASS | Brave böngésző | Kaló Levente | 2022.12.05. |
+| Ketgória oldal funkcionalitás | A kártyára kattintva a témakörnek megfelelő oldalra kerülünk át | Sikeresen átkerül a felhasználó a megfelelő oldalra | PASS | Brave böngésző | Kaló Levente | 2022.12.05. |
+| Ketgória oldal funkcionalitás | A kártyák megfelelő elrendezésben jelennek meg | A kártyák a megfelelő módon a képernyő méretéhez igazodva jelenik meg | PASS | Brave böngésző | Kaló Levente | 2022.12.05. |
+| Ketgória oldal funkcionalitás | A kártyák mobil nézetnek megfelelően reszponzívan jelenik meg | A kártyák reszponzívak mobilon is tökéletesek | PASS | Safari mobil | Kaló Levente | 2022.12.05. |
+| Ketgória oldal funkcionalitás | A kártyák animációja akadás mentesen végbemegy asztali számítógépen | Az animáció akadásmentes és az elvártaknak megfelel | PASS | Brave böngésző | Kaló Levente | 2022.12.05. |
